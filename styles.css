@@ -1,0 +1,13 @@
+.navbar {
+    background-color: red;
+    /* overflow: hidden; */
+    height: 40px;
+}
+
+.nav-item {
+    color: white;
+    float: left;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
